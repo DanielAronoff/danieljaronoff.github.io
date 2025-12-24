@@ -36,3 +36,6 @@ social:
 # SEO Settings
 author:
   name: Daniel J. Aronoff
+  git add _config.yml
+git commit -m "Trigger rebuild for GitHub Pages"
+git push origin main
