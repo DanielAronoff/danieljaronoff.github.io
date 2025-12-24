@@ -1,0 +1,24 @@
+# Site settings
+title: Daniel J Aronoff
+description: >
+  I am a Research Affiliate at the MIT Department of Economics, a Research Associate at the Laboratory for Economic Analysis and Design at MIT, 
+  and a Collaborator at the MIT Media Lab Digital Currency Initiative.
+
+  My primary research focus is at the intersection of economics, cryptography, and financial markets. I study game theoretic analyses of cryptocurrency consensus protocols and mechanisms to improve financial market efficiency.
+
+remote_theme: sylhare/ai-folio
+baseurl: ""
+url: "https://danieljaronoff.github.io"
+
+plugins:
+  - jekyll-remote-theme
+
+# Navigation
+header_pages:
+  - index.md
+
+# Social Links
+social:
+  - name: LinkedIn
+    icon: linkedin
+    url: https://www.linkedin.com/in/daniel-aronoff-968a19b0/
