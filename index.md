@@ -18,4 +18,4 @@ Additionally, I work on the development of mechanisms to enhance the performance
 
 ---
 
-[📄 Download My CV →](./assets/cv.pdf)
+[📄 Download My Resume (PDF) →](./assets/cv.pdf)
