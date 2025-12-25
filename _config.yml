@@ -1,10 +1,10 @@
 # Global Site Settings
-title: Daniel J. Aronoff
+title: Daniel J.  Aronoff
 description: >
   I am a Research Affiliate at the MIT Department of Economics, a Research Associate at the Laboratory for Economic Analysis and Design at MIT, 
   and a Collaborator at the MIT Media Lab Digital Currency Initiative.
 
-  My primary research focus is at the intersection of economics and cryptography, including blockchain protocol design, the study of stablecoins, and environmental market mechanisms. 
+  My primary research focus is at the intersection of economics and cryptography, including blockchain protocol design, the study of stablecoins, and environmental market mechanisms.  
   I have also published two books on the 2008 global financial crisis.
 
 remote_theme: sylhare/ai-folio
@@ -12,11 +12,11 @@ baseurl: ""  # Leave this blank unless the site is hosted in a subdirectory
 url: "https://danieljaronoff.github.io"  # GitHub Pages URL
 
 # Plugins
-plugins:
+plugins: 
   - jekyll-remote-theme
 
 # Navigation Bar
-header_pages:
+header_pages: 
   - index.md            # Homepage
   - research.md         # Research page
   - consulting/services.md  # Consulting Services
@@ -25,7 +25,7 @@ header_pages:
   - contact.md          # Contact page
 
 # Social Media Links
-social:
+social: 
   - name: LinkedIn
     icon: linkedin
     url: https://www.linkedin.com/in/daniel-aronoff-968a19b0/
@@ -35,5 +35,7 @@ social:
 
 # SEO Settings
 author:
-  name: Daniel J. Aronoff
- verbose: true
+  name:  Daniel J. Aronoff
+
+# Enable verbose mode for debugging
+verbose: true
